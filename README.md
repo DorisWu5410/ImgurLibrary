@@ -9,10 +9,10 @@ run "npm start"
 ![image](https://github.com/DorisWu5410/ImgurLibrary/blob/main/screenshot/image_all.png)
 
 ## view image searched by keyword;
-![image](https://github.com/DorisWu5410/ImgurLibrary/screenshot/image_keyword.png)
+![image](https://github.com/DorisWu5410/ImgurLibrary/blob/main/screenshot/image_keyword.png)
 
 ## view all video ordered by time
-![image](https://github.com/DorisWu5410/ImgurLibrary/screenshot/video_all.png)
+![image](https://github.com/DorisWu5410/ImgurLibrary/blob/main/screenshot/video_all.png)
 
 ## view image searched by keyword;
-![image](https://github.com/DorisWu5410/ImgurLibrary/screenshot/video_keyword.png)
+![image](https://github.com/DorisWu5410/ImgurLibrary/blob/main/screenshot/video_keyword.png)
