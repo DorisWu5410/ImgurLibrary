@@ -6,6 +6,8 @@ run "npm install --force"
 
 run "npm start"
 
+when cursor hovers on the post, it shows the username and title of the post.
+
 ## view all image ordered by time
 ![image](https://github.com/DorisWu5410/ImgurLibrary/blob/main/screenshot/image_all.png)
 
