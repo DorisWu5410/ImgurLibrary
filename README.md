@@ -1,6 +1,6 @@
 # Imgur Library
 
-An application which dinamically render images and videos from Imgur with API based on user search input.
+An application which dynamically render images and videos from Imgur with API based on user search input.
 
 run "npm install --force"
 
